@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.nga_profile img {
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid pink;
+    display: flex;
+}
+.heading {
+    margin-left: 290px;
+    height: 100px;
+    background-color: powderblue;
+    display: flex;
+    align-items: center;
+    text-indent: 30px;
+}
+.nav-bar {
+    margin-left: 290px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: powderblue;
+}
