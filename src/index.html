@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- <meta tags added to help with responsive designs -->
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -10,11 +11,13 @@
 <body>
     <!-- This is where I have my navigational bar to link up all my common pages -->
     <header>
-        <div>
+        <div class="nav-wrapper">
             <nav class="nav-bar">
-                <a href="pages/about.html">About Me</a>
-                <a href="pages/resume.html">Resume</a>
-                <a href="pages/blog.html">Blog</a>
+                <div class="nav-links"><a href="pages/about.html">About Me</a></div>
+                <div class="nav-links">|</div>
+                <div class="nav-links"><a href="pages/resume.html">Resume</a></div>
+                <div class="nav-links">|</div>
+                <div class="nav-links"><a href="pages/blog.html">Blog</a></div>
             </nav>
         </div>
         <div class="heading">
@@ -27,16 +30,6 @@
         <div class="nga_profile">
             <img src="img/nga_profile.jpeg" alt="Nga profile picture">
         </div>
-        
-        <div class="social-links">
-            <ul>
-                <img src="img/twitter-logo.png" alt="twitter_logo">
-                <img src="img/github-logo.png" alt="github_logo">
-                <img src="img/linkedin-logo.png" alt="linkedin_logo">
-                <img src="img/instagram-logo.png" alt="instagram_logo"
-                <img src="facebook-logo.png" alt="facebook_logo"
-            </ul>
-        </div>
     </section>
     <!-- This section will showcase the main item relevant to this page -->
     <article class="article_intro">
@@ -48,28 +41,20 @@
             Learn about me and what I do.
         </p>
     </article>
-
-    <section>
-        <h2>Blog</h2>
-        <ul>
-
-        </ul>
-
+    <section class="social-links-section">
+        <h3>Let's Connect!</h3>
+        <div class="social-links">
+            <div class="social-img"><img src="img/twitter-logo.png" alt="twitter_logo"></div>
+            <div class="social-img"><img src="img/github-logo.png" alt="github_logo"></div>
+            <div class="social-img"><img src="img/linkedin-logo.png" alt="linkedin_logo"></div>
+            <div class="social-img"><img src="img/instagram-logo.png" alt="instagram_logo"></div>
+            <div class="social-img"><img src="img/facebook-logo.png" alt="facebook_logo"></div>
+        </div>
     </section>
+
     <!-- This footer will help user navigate back home and get in contact with me -->
     <footer class="footer">
-        <div>
-            <h3>Let's Connect!</h3>
-        </div>
-        <div class="social-links">
-            <ul>
-                <img src="img/twitter-logo.png" alt="twitter_logo">
-                <img src="img/github-logo.png" alt="github_logo">
-                <img src="img/linkedin-logo.png" alt="linkedin_logo">
-                <img src="img/instagram-logo.png" alt="instagram_logo"
-                <img src="facebook-logo.png" alt="facebook_logo"
-            </ul>
-        </div>
+        
         <div>
             <a href="../index.html">Home</a>
             <a href="pages/about.html">Contact Me</a>

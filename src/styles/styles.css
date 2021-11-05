@@ -22,6 +22,7 @@
     justify-content: space-evenly;
     align-items: center;
     background-color: powderblue;
+    text-decoration: none;
 }
 .left-panel-profile {
     display: flex;
@@ -30,24 +31,43 @@
     background-color: pink;
 }
 .article_intro {
-    margin-top: 50px;
+    margin-top: 30px;
     margin-left: 20px;
     margin-right: 20px;
-    height: 100%;
     min-height: 150px;
     display: flex;
     justify-content: center;
     text-align: center;
-    text-decoration-color: rgb(131, 51, 153);
+    text-decoration-color: salmon;
+    text-decoration-style: bold;
 }
 footer {
     display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: center;
-
 }
 .social-links img {
     width: 40px;
+} 
 
+.social-links-section {
+    text-align: center;
+}
+
+.social-img {
+    display: inline-block;
+    margin-bottom: 2vh;  
+    margin-left: 0.3vw;
+    margin-right: 0.3vw;
+    margin-top: 0.5vh;
+}
+
+.nav-bar {
+    max-width: 1080px;
+    margin: auto;
+    float: top;
+}
+.nav-wrapper {
+    background-color: powderblue;
 }
