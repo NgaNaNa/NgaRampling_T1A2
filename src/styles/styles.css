@@ -3,22 +3,50 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 .nga_profile img {
-    width: 200px;
+    margin-top: 1vh;
+    width: 120px;
     border-radius: 50%;
     border: 10px solid pink;
     display: flex;
 }
 .heading {
-    margin-left: 290px;
+    margin-left: 0px;
     height: 100px;
     background-color: powderblue;
     display: flex;
     align-items: center;
+    flex-direction: column;
     text-indent: 30px;
 }
 .nav-bar {
-    margin-left: 290px;
+    margin-left: 0px;
+    height: 50px;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
     background-color: powderblue;
+}
+.left-panel-profile {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: pink;
+}
+.article_intro {
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 100%;
+    min-height: 150px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    text-decoration-color: rgb(131, 51, 153);
+}
+footer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+
 }
