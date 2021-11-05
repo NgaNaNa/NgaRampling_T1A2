@@ -3,23 +3,20 @@
     font-family:Arial, Helvetica, sans-serif;
 }
 .nga_profile img {
-    margin-top: 1vh;
     width: 120px;
     border-radius: 50%;
     border: 10px solid pink;
     display: flex;
 }
 .heading {
-    margin-left: 0px;
+    padding-top: 20px;
     height: 100px;
     background-color: powderblue;
     display: flex;
     align-items: center;
     flex-direction: column;
-    text-indent: 30px;
 }
 .nav-bar {
-    margin-left: 0px;
     height: 50px;
     display: flex;
     justify-content: space-evenly;
@@ -48,5 +45,9 @@ footer {
     justify-content: center;
     flex-direction: column;
     text-align: center;
+
+}
+.social-links img {
+    width: 40px;
 
 }
