@@ -44,9 +44,14 @@
 footer {
     display: flex;
     justify-content: center;
-    flex-direction: column;
     text-align: center;
+    align-content: space-around;
 }
+/* 
+.footer-div {
+
+} */
+
 .social-links img {
     width: 40px;
 } 
@@ -62,12 +67,20 @@ footer {
     margin-right: 0.3vw;
     margin-top: 0.5vh;
 }
+a {
+    text-decoration: none;
+}
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
 
 .nav-bar {
     max-width: 1080px;
     margin: auto;
-    float: top;
+    float: none;
 }
 .nav-wrapper {
     background-color: powderblue;
 }
+
