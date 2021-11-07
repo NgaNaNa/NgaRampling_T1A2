@@ -42,10 +42,7 @@
     text-decoration-style: bold;
 }
 footer {
-    display: flex;
-    justify-content: center;
     text-align: center;
-    align-content: space-around;
 }
 /* 
 .footer-div {
@@ -67,9 +64,11 @@ footer {
     margin-right: 0.3vw;
     margin-top: 0.5vh;
 }
+
 a {
     text-decoration: none;
 }
+
 /* mouse over link */
 a:hover {
     color: hotpink;
