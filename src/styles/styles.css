@@ -17,7 +17,7 @@
     flex-direction: column;
 }
 .nav-bar {
-    height: 50px;
+    height: 100px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -26,8 +26,7 @@
 }
 .left-panel-profile {
     display: flex;
-    flex-direction: column;
-    align-items: center;
+    justify-content: center;
     background-color: pink;
 }
 .article_intro {
@@ -41,13 +40,6 @@
     text-decoration-color: salmon;
     text-decoration-style: bold;
 }
-footer {
-    text-align: center;
-}
-/* 
-.footer-div {
-
-} */
 
 .social-links img {
     width: 40px;
@@ -65,7 +57,7 @@ footer {
     margin-top: 0.5vh;
 }
 
-a {
+.nav-links a {
     text-decoration: none;
 }
 
@@ -82,4 +74,16 @@ a:hover {
 .nav-wrapper {
     background-color: powderblue;
 }
+footer {
+    text-align: center;
+}
+.footer-links a {
+    text-decoration: none;
+}
 
+.footer-section {
+    text-decoration: none;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
