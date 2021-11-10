@@ -21,8 +21,13 @@
 }
 .sub-heading {
     background-color: powderblue;
-    margin-left: 10vh;
-    max-height: 10vh;
+    margin-left: 5vw;
+    height: 3em;
+    display: flex;
+    align-items: center;
+}
+.sub-heading-wrapper {
+    background-color: powderblue;
 }
 .nav-bar {
     height: 50px;
@@ -105,24 +110,43 @@ footer {
     background-color: white;
     display: flex;
     flex-direction: column;
-    text-align: center;
+    text-align: left;
     padding-top: 2vh;
     padding-left: 1vw;
     padding-right: 1vw;
     padding-bottom: 1vh;
+    margin-bottom: 10vh;
 }
 .description {
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
     font-weight: 300;
 }
-.years {
+.description-bold {
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
     font-weight: 400;
+    height: 2em;
+    display: flex;
+    align-items: center;
 }
 .work {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: start;
     background-color: powderblue;
+}
+.education {
+    background-color: powderblue;
+}
+.education-panel {
+    width: 25vw;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    padding-top: 2vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+    padding-bottom: 1vh;
+    margin-left: 5vw;
 }
