@@ -8,13 +8,21 @@
     border: 10px solid pink;
     display: flex;
 }
+.header {
+    background-color: powderblue;
+}
 .heading {
     padding-top: 10px;
-    height: 100px;
+    height: 50px;
     background-color: powderblue;
     display: flex;
     align-items: center;
     flex-direction: column;
+}
+.sub-heading {
+    background-color: powderblue;
+    margin-left: 10vh;
+    max-height: 10vh;
 }
 .nav-bar {
     height: 50px;
@@ -92,7 +100,7 @@ footer {
 /* Styling for work.html page */
 /******************************/
 
-.work-panel {
+.panel {
     width: 25vw;
     background-color: white;
     display: flex;
@@ -103,7 +111,7 @@ footer {
     padding-right: 1vw;
     padding-bottom: 1vh;
 }
-.work-description {
+.description {
     font-family: 'Roboto', sans-serif;
     font-size: 1.5em;
     font-weight: 300;
