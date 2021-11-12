@@ -20,7 +20,16 @@
 }
 h1 {
     font-family: 'Sassy Frass', cursive;
+    font-size: 40px;
 }
+.author {
+    display: flex;
+    justify-content: center;
+}
+h2 {
+    font-family: 'JetBrains Mono', monospace;
+}
+
 .sub-heading {
     background-color: powderblue;
     margin-left: 5vw;
@@ -197,7 +206,13 @@ footer {
 /* Responsive to tablet  */
 /* ********************* */
 
-@media screen and (max-width: 960px) {}
+@media screen and (max-width: 962px) {
 	.navbar {
 		padding: 0;
 		flex-direction: column;
+    }
+    .copy-right {
+        display: flex;
+        justify-content: center;
+    }
+}
