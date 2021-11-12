@@ -27,15 +27,26 @@ h1 {
     justify-content: center;
 }
 h2 {
-    font-family: 'JetBrains Mono', monospace;
+    font-family: 'JetBrains Mono';
+    font-size: 1.6;
 }
-
+h3 {
+    font-family: 'JetBrains Mono';
+    font-size: 1.4em;
+}
+.page-title {
+    display: flex;
+    justify-content: center;
+}
 .sub-heading {
     background-color: powderblue;
     margin-left: 5vw;
     height: 3em;
     display: flex;
     align-items: center;
+    text-align: center;
+    justify-content: center;
+    padding-top: 2vh;
 }
 .sub-heading-wrapper {
     background-color: powderblue;
@@ -200,6 +211,25 @@ footer {
         display: flex;
         justify-content: center;
     }
+    .sub-heading {
+        display: flex;
+        justify-content: center;
+        max-width: 80vw;
+        text-align: center;
+    }
+    .page-title {
+        display: flex;
+        justify-content: center;
+        max-width: 80vw;
+        text-align: center;
+    }
+    .description {
+        font-size: 1.2em;
+    }
+    .description-bold {
+        font-size: 1.2em;
+    }
+    
 }
 
 /* ********************* */
