@@ -11,12 +11,15 @@
 .header {
     background-color: powderblue;
 }
-.heading {
+.author {
     padding-top: 10px;
     height: 50px;
     background-color: powderblue;
     display: flex;
     align-items: center;
+}
+h1 {
+    font-family: 'Sassy Frass', cursive;
 }
 .sub-heading {
     background-color: powderblue;
@@ -28,6 +31,10 @@
 .sub-heading-wrapper {
     background-color: powderblue;
 }
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
 .nav-bar {
     height: 50px;
     display: flex;
@@ -35,17 +42,11 @@
     align-items: center;
     background-color: powderblue;
     text-decoration: none;
-}
-/* mouse over link */
-a:hover {
-    color: hotpink;
-}
-
-.nav-bar {
-    max-width: 1080px;
+    max-width: 508px;
     margin: auto;
     float: none;
 }
+
 .nav-wrapper {
     background-color: powderblue;
 }
@@ -83,23 +84,29 @@ a:hover {
     margin-right: 0.3vw;
     margin-top: 0.5vh;
 }
+/* Styling footer container */
 footer {
-    text-align: center;
-    min-height: 10vh;
+    height: 50px;
+    background-color: powderblue;
 }
-.footer-links a {
-    text-decoration: none;
-}
-
-.footer-section {
-    text-decoration: none;
+.footer-wrap {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: center;
+    background-color: powderblue;
     align-items: center;
 }
+.footer-links a {
+    margin-left: 5px;
+    text-decoration: none;
+}
+.footer-links {
+    margin-left: 5px;
+}
+
 .copy-right {
     display: flex;
-
+    justify-content: end;
+    font-size: 0.7em;
 }
 
 /******************************/
@@ -179,6 +186,10 @@ footer {
     }
     .education-panel {
         width: 355px;
+    }
+    .copy-right {
+        display: flex;
+        justify-content: center;
     }
 }
 
