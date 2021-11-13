@@ -125,7 +125,10 @@ footer {
 .copy-right {
     display: flex;
     justify-content: end;
-    font-size: 0.7em;
+    /* font-size: 0.7em; */
+}
+h4.copy-right {
+    font-size: 0.5em;
 }
 
 /******************************/
@@ -234,7 +237,10 @@ img.single-blog-img {
 h4.blog-weights-h4-title {
     padding-left: 20px;
 }
-
+h4.single-blog-text-center {
+    display: flex;
+    justify-content: center;
+}
 /* ********************* */
 /* Responsive to mobile  */
 /* ********************* */
