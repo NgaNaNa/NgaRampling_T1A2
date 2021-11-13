@@ -156,7 +156,7 @@ footer {
     justify-content: space-evenly;
     background-color: powderblue;
 }
-.panel {
+.work-panel {
     width: 90%;
     background-color: white;
     display: flex;
@@ -198,16 +198,16 @@ footer {
 	.nav-bar {
         flex-wrap: wrap;
     }
-
     .work {
-        min-width: 100%;
+        max-width: 100%;
         display: flex;
         justify-content: center;
 		flex-direction: column;
     }
     
-    .panel {
+    .work-panel {
         display: flex;
+        flex-direction: column;
         justify-content: center;
     }
     img {
@@ -219,7 +219,9 @@ footer {
     }
 
     .education {
-        min-width: 100%;
+        max-width: 100%;
+		display: flex;
+        justify-content: center;
 		flex-direction: column;
     }
     .education-panel {
