@@ -201,6 +201,24 @@ footer {
     flex: 1;
   }
 
+
+/******************************/
+/* Styling for Single blog page */
+/******************************/
+.single-blog-author-date {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 1em;
+}
+.single-blog-img-container {
+    display: flex;
+    justify-content: center;
+}
+img.single-blog-img {
+    width: 50%;
+}
+
 /* ********************* */
 /* Responsive to mobile  */
 /* ********************* */
