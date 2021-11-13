@@ -190,6 +190,17 @@ footer {
     margin-bottom: 20px;
 }
 
+/******************************/
+/* Styling for blog.html page */
+/******************************/
+
+.blog-flex-grid {
+    display: flex;
+  }
+  .blog-blurb {
+    flex: 1;
+  }
+
 /* ********************* */
 /* Responsive to mobile  */
 /* ********************* */
