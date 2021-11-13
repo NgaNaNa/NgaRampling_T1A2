@@ -40,7 +40,6 @@ h3 {
 }
 .sub-heading {
     background-color: powderblue;
-    margin-left: 5vw;
     height: 3em;
     display: flex;
     align-items: center;
@@ -48,9 +47,9 @@ h3 {
     justify-content: center;
     padding-top: 2vh;
 }
-.sub-heading-wrapper {
+/* .sub-heading-wrapper {
     background-color: powderblue;
-}
+} */
 /* mouse over link */
 a:hover {
     color: hotpink;
@@ -132,7 +131,12 @@ footer {
 /******************************/
 /* Styling for work.html page */
 /******************************/
-
+.flex-grid {
+    display: flex;
+  }
+  .col {
+    flex: 1;
+  }
 
 .description {
     font-family: 'Roboto', sans-serif;
@@ -153,16 +157,19 @@ footer {
     background-color: powderblue;
 }
 .panel {
-    width: 100%;
+    width: 90%;
     background-color: white;
     display: flex;
+    justify-content: space-evenly;
     flex-direction: column;
     text-align: left;
-    padding-top: 10px;
+    padding: 1em;
+    /* padding-top: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    padding-bottom: 10px;
+    padding-bottom: 10px; */
     margin-bottom: 20px;
+    
 }
 
 .education {
@@ -188,16 +195,27 @@ footer {
 /* ********************* */
 
 @media screen and (max-width: 428px) {
-	.nav-links {
-        display: flex;
-		flex-direction: column;
+	.nav-bar {
+        flex-wrap: wrap;
     }
+
     .work {
         min-width: 100%;
+        display: flex;
+        justify-content: center;
 		flex-direction: column;
     }
+    
     .panel {
-        width: 355px;
+        display: flex;
+        justify-content: center;
+    }
+    img {
+        display: flex;
+        justify-content: center;
+    }
+    .description {
+        padding: 10px 10px 30px;
     }
 
     .education {
@@ -214,13 +232,11 @@ footer {
     .sub-heading {
         display: flex;
         justify-content: center;
-        max-width: 80vw;
         text-align: center;
     }
     .page-title {
         display: flex;
         justify-content: center;
-        max-width: 80vw;
         text-align: center;
     }
     .description {
