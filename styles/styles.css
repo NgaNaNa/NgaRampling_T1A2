@@ -69,7 +69,7 @@ a:hover {
 .nav-wrapper {
     background-color: powderblue;
 }
-.nav-links a {
+a {
     text-decoration: none;
 }
 .left-panel-profile {
