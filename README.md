@@ -28,7 +28,7 @@ Each update made to this project should be pushed to my GitHub repository accoun
 
 ### Sitemap
 
-![ngarampling@Ngas-MacBook-Air](/CoderAcademy/T1A2_Portfolio_Documents/sitemap-portfolio.jpg)
+![Port Folio Sitemap](/Documents/CoderAcademy/T1A2_Portfolio_Documents/sitemap-portfolio.jpg)
 
 ### Screenshots
 ### Target audience
