@@ -28,12 +28,39 @@ Each update made to this project should be pushed to my GitHub repository accoun
 
 ### Sitemap
 
-![Port Folio Sitemap](/img/sitemap-portfolio.jpg)
+![Portfolio Sitemap](/img/sitemap-portfolio.jpg)
 
 ### Screenshots
 
+![blog-desktop](/img/blog-desktop.png)
 
+![contact-me-desktop](/img/contact-me-desktop.png)
+
+![index-desktop](/img/index-desktop.png)
+
+![index-mobile](/img/index-mobile.png)
+
+![single-blog-desktop](/img/single-blog-desktop.png)
+
+![single-blog-mobile](/img/single-blog-mobile.png)
+
+![work-desktop](/img/work-desktop.png)
+
+![work-tablet](/img/work-tablet.png)
 
 ### Target audience
+
+The target audience is potential employers and recruitment agencies.
+
 ### Tech stack
-(e.g. html, css, deployment platform, etc)
+
+- HTML
+- CSS
+- Git (Source version control)
+- Github.com (Source version control repository)
+- Netlify (Continuous Deployment)
+- Formspree (Dynamic form serivce)
+- Google Fonts
+- Unplash (Free stock photos)
+- HTTPS
+- SRI

@@ -41,22 +41,24 @@
         <!-- Formspree Section -->
     </header>
     <section>
-        <form action="https://formspree.io/f/xzbynrgz"
-            method="POST" class="form-box">
-            <fieldset id="fs-frm-inputs">
-                <label for="full-name" class="label">Full Name</label>
-                <input type="text" name="name" id="full-name" placeholder="Full Name" required="">
-                <label for="email-address">Email Address</label>
-                <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-                <label for="message">Message</label>
-                <textarea rows="5" name="message" id="message" placeholder="Hey how ya doin'
-                Sorry ya can't get through
-                Why don't you leave your name and your number
-                And I'll get back to you" required=""></textarea>
-                <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
-            </fieldset>
-            <input type="submit" value="Submit" class="submit-button">
-        </form>
+        <div class="form-box">
+            <form action="https://formspree.io/f/xzbynrgz"
+                method="POST">
+                <fieldset id="fs-frm-inputs">
+                    <label for="full-name" class="label">Full Name</label>
+                    <input type="text" name="name" id="full-name" placeholder="Full Name" required="">
+                    <label for="email-address">Email Address</label>
+                    <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
+                    <label for="message">Message</label>
+                    <textarea rows="5" name="message" id="message" placeholder="Hey how ya doin'
+                    Sorry ya can't get through
+                    Why don't you leave your name and your number
+                    And I'll get back to you" required=""></textarea>
+                    <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
+                </fieldset>
+                <input type="submit" value="Submit" class="submit-button">
+            </form>
+        </div>
     </section>        
     <section class="single-blog-flex-grid">
         <div class="single-blog-blurb">

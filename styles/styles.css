@@ -221,6 +221,9 @@ h4.copy-right {
     font-size: 1.5em;
     font-weight: 300;
   }
+  ul.blog-list {
+    list-style: none;
+  }
 
 
 
@@ -299,7 +302,7 @@ input.submit-button {
 } */
 p.my-biography-child {
     padding: 10px 300px 20px;
-    text-align: center;
+    text-align: left;
     /* width: 50px;
     height: 50px;
     background-color: red; */
@@ -388,6 +391,9 @@ p.my-biography-child {
     }
     footer {
         padding-bottom: 30px;
+    }
+    .form-box {
+        width: 80vw;
     }
 }
 
