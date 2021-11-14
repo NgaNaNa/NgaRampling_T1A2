@@ -116,10 +116,12 @@ footer {
 }
 .footer-links a {
     margin-left: 5px;
+    margin-right: 10px;
     text-decoration: none;
 }
 .footer-links {
     margin-left: 5px;
+    margin-right: 10px;
 }
 
 .copy-right {
@@ -268,7 +270,22 @@ fieldset {
 input.submit-button {
     margin: 1em;
 }
-
+.my-biography-container {
+    font-family: arial;
+    font-size: 24px;
+    margin: 25px;
+    width: 800px;
+    display: flex;
+    text-align: center;
+}
+p.my-biography-child {
+    padding: 10px 50px 20px;
+    /* width: 50px;
+    height: 50px;
+    background-color: red; */
+    /* Center horizontally*/
+    /* margin: 0 auto; */
+}
 
 
 /* ********************* */
