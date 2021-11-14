@@ -1,9 +1,9 @@
-#Nga's Portfolio Website
+# Nga's Portfolio Website
 
-##Published portfolio website URL
+## Published portfolio website URL
 https://www.nga-rampling.com/
 
-##GitHub repo
+## GitHub repo
 https://github.com/NgaNaNa/NgaRampling_T1A2
 
 Description of your portfolio website, including,
