@@ -221,10 +221,16 @@ h4.copy-right {
 }
 img.single-blog-img {
     width: 50%;
+    border-radius:10px
+}
+.single-blog-flex-grid-container {
+    display: flex;
+    text-align: center;
+    flex-direction: column;
 }
 .single-blog-flex-grid {
-    display: flex;
     padding: 20px 20px 20px;
+    width: 50%;
 }
 .single-blog-blurb {
     flex: 1;
