@@ -1,0 +1,341 @@
+commit 9039e3e9a74bb10df03d8c22d120d3d3b54e7a75
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 23:48:55 2021 +1100
+
+    SRI added
+
+commit b4b69def215aab8fd0ccf65bb8752844e4af0ac1
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 23:39:06 2021 +1100
+
+    cors star
+
+commit 5aae3c7c055caad3c0377a0271eedff712e33b1d
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 23:35:44 2021 +1100
+
+    added _headers
+
+commit 260d19e8cdeaa757d2c0f1b2ffadd859b52f3722
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 22:41:54 2021 +1100
+
+    fixed tablet view for work.html
+
+commit 884868861726ccefbc102f643612e3db30340dc8
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 22:34:37 2021 +1100
+
+    fixed mobile view for work.html
+
+commit a3c967079cb4df954e9de31928a4ef4093c78a41
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 22:29:29 2021 +1100
+
+    styled single-blog-blurb
+
+commit 55d24aeedb052fde60c17e7995a3eb3991f351e9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 22:15:08 2021 +1100
+
+    style to footer
+
+commit a5ad5de2c3c8c4b1f9bf2a7c091651b293bb845d
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 21:46:43 2021 +1100
+
+    fixed blog page responsive to mobile
+
+commit 9698a59b45c2b6aca9c46f39d281ba235dd399b9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 20:23:57 2021 +1100
+
+    fixing image link to sitemap on readme.md
+
+commit 6b8c77cca2db424969759b5f642fcd458ef872f9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 19:23:08 2021 +1100
+
+    fixing link to sitemap
+
+commit 7dbbe30d0de5c026667046281de23248e16315ef
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 19:20:44 2021 +1100
+
+    update link to sitemap image
+
+commit 3489f9d74187fb09445819bb5ac3daf3a2fcd3a4
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 19:19:25 2021 +1100
+
+    Added sitemap to readme.md file
+
+commit 372f07e662355b15866455de3bb215d76a72bbac
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 19:09:46 2021 +1100
+
+    adding <br> in paragraphs in readme.md file
+
+commit 1e923b9ee2a6ba4bb3de91152d9f1443d9e90f79
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 19:07:01 2021 +1100
+
+    progressed on readme.md file first half
+
+commit 00164763467daab01d29ba640d73b5bcae1bb48f
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 17:50:02 2021 +1100
+
+    fixed readme.md formatting
+
+commit 666ba7a1070d820d8cf1211073ab74de7dd1bb15
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 17:48:30 2021 +1100
+
+    Start Readme.md
+
+commit cf3faa4f11e6495e8190633b9693eb183d56a33e
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 16:14:38 2021 +1100
+
+    Added hobbies in contact-me page
+
+commit 3e375e3028506747951ad3127f27020d50ce64fe
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 15:57:37 2021 +1100
+
+    Resolved navigating and links issue
+
+commit 98c80dfde9ef0c20d7c2ca521491f7c98c6e3d00
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 14:51:31 2021 +1100
+
+    created my biography
+
+commit 72568d687b1515f24511feb6016130aeb8da9ad1
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 14:34:49 2021 +1100
+
+    insert formspree
+
+commit 272851721fda49ea6c9243a51df145a19b957686
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 13:56:13 2021 +1100
+
+    furter updates to contact-me links
+
+commit 41e1168bce600a2aefab315136458a07b33fbc96
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 13:49:34 2021 +1100
+
+    changed page name from about to contact-me
+
+commit 956c34b0ce6195c88547480fa0f36cf3df55a9b2
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 13:36:18 2021 +1100
+
+    completed single blog-park page
+
+commit 28c54886ef9bebc400c90ed612123adfbebea5cf
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 13:18:53 2021 +1100
+
+    filled out blog-nutrition page
+
+commit f91bb730a330e2d60de42612bfd02536c5952809
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 12:59:24 2021 +1100
+
+    fixed font styles to single blog
+
+commit c0477f850f67f0de93ce45565248e3dbcdace7e7
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 10:41:11 2021 +1100
+
+    Completed articles for coffee blog page
+
+commit d0e32d0e76f2d95141e95ee978b2f3c70a32dca6
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 14 10:07:21 2021 +1100
+
+    initiated blog-coffee page and inserted image
+
+commit 195fb34cc51784c0e276322b2e0d32525fc3b4b6
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 23:48:26 2021 +1100
+
+    Made Single Blog responsive to mobile view
+
+commit 7511cf85add3943c6ce2440cb4bebfc7021c8d32
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 20:42:53 2021 +1100
+
+    center div img single blog
+
+commit 25fcffc5ddc869b3cfa64e3c160c98089fd7d5bf
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 18:28:30 2021 +1100
+
+    added articles and links to blog pages
+
+commit 4615426e62a8a35627061ff4be7d0ca7f8eb98c8
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 17:08:44 2021 +1100
+
+    update blog.html and created 5 blog post to link up
+
+commit 12f8fefff98ae1e2d782e25c9a7ad0b3fbcb8074
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 16:01:12 2021 +1100
+
+    renamed div panel to work-panel and style in work.html
+
+commit dc05c786414d9bf4097a0ae7b46c06c08e2b39d3
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 13 14:39:08 2021 +1100
+
+    testing for responsive to mobile for work.html
+
+commit 9b13dfb78b45ab2612014d28228884867e73af03
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 23:35:09 2021 +1100
+
+    change responsive for phone viewport
+
+commit 2c71ad76e0025f414f55dddd4e30f49f43428dd6
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 23:18:52 2021 +1100
+
+    changes to responsive display in style
+
+commit 158278a8df76070f03bd9b9761f7d6e67cf3a9fb
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 22:00:11 2021 +1100
+
+    Added font style to h2 and made index.html responsive to tablet screen
+
+commit d238654f3bc7bacf97e9e16f1465bca1e1796fe9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 21:07:08 2021 +1100
+
+    Add fonts to h1 Author div
+
+commit 84675ab13e9360dbb80cc68436b93d7594acac28
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 17:37:31 2021 +1100
+
+    modified title and footer in index and style
+
+commit 08d4231e9a3abb1f581dd4991d7a5ff5a31971e6
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 00:05:25 2021 +1100
+
+    deleted .DS_Store
+
+commit 8f463c4cfb61f621304789621f557372ac76a0c8
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 12 00:02:23 2021 +1100
+
+    updated gitignore
+
+commit e0ee25adf1005cae40337376e1208b3f0185bde5
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 11 23:59:30 2021 +1100
+
+    reorganised folder structure
+
+commit a00a78b06df50d3c6519f8dd17906657c8e4555b
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 11 18:22:56 2021 +1100
+
+    created media-breakpoints for mobile responsive display for work.html
+
+commit 39a5d54882c0029e01c432a15accbf22e8bd4702
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 11 15:02:53 2021 +1100
+
+    created hyperlink to PDF of resume
+
+commit deeb0dc91f7873f4c4c22cd64b974ef089c0083c
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 11 14:32:09 2021 +1100
+
+    Debugged the Education panel in work.html
+
+commit e96488e7911a06a041281461291a63491cb3073e
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 11 00:12:15 2021 +1100
+
+    adjust sub-heading on work.html and fixed image quality
+
+commit f05ba61b44b14613f17badc2cfbbf8f3e9920594
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Wed Nov 10 22:27:47 2021 +1100
+
+    Added sub-heading and started the education panel
+
+commit 30f8347bcff7da9f62a211e8ef867e2156878a94
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Wed Nov 10 20:33:15 2021 +1100
+
+    changed work images and style work.html
+
+commit fe2a0e752084b11d8166e81009df31f0ba313d3c
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Wed Nov 10 00:31:30 2021 +1100
+
+    insert images text and fonts for work section
+
+commit 0afd16547068cd7e3352a58dfa43c1ed1fb6671d
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 7 17:27:23 2021 +1100
+
+    spaced evenly footer links
+
+commit c6a6b1a20d8c96f797873310dc65e779243cdcdb
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 7 16:06:12 2021 +1100
+
+    Connect relationship style with all pages About me Resume and Blog
+
+commit 16e4ce12907fa8958f36b9184c4d855846cadbfa
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 7 14:40:23 2021 +1100
+
+    changed profile picture for 400x400 img
+
+commit cdeedfe6ca48c9a1d8494026ed42983b5b0ffbae
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sun Nov 7 14:11:43 2021 +1100
+
+    text decoration made to link buttons to nav bar and footer
+
+commit fa51f10ec9e1d8a306ca614fd13ba9bc4fd712a0
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Nov 6 09:28:18 2021 +1100
+
+    centered social links
+
+commit 54f5e7fdf65184c7b468b69f439e560d47637fa9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 5 14:26:54 2021 +1100
+
+    social links added
+
+commit 9c3528d78890f2d82fb426da9e376de53c72cea9
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Fri Nov 5 12:12:25 2021 +1100
+
+    add footer
+
+commit 732f9d220db2d39d95d5de1bf586833a9e31b1c2
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Thu Nov 4 17:00:46 2021 +1100
+
+    updates made to index.html and styles.css
+
+commit e6f85da12e32da2e5a443e3eba41e7ed8f75a184
+Author: Nga Rampling <ngarampling@Ngas-MacBook-Air.local>
+Date:   Sat Oct 30 12:35:26 2021 +1100
+
+    first commit
