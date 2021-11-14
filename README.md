@@ -28,7 +28,7 @@ Each update made to this project should be pushed to my GitHub repository accoun
 
 ### Sitemap
 
-![Port Folio Sitemap](/Documents/CoderAcademy/T1A2_Portfolio_Documents/sitemap-portfolio.jpg)
+![Port Folio Sitemap](/img/sitemap-portfolio.jpg)
 
 ### Screenshots
 ### Target audience
