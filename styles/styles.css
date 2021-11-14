@@ -417,6 +417,30 @@ p.my-biography-child {
         display: flex;
         align-items: center;
     }
+    /* testing */
+    /* .work {
+        max-width: 100%;
+        display: flex;
+        justify-content: center;
+		flex-direction: column;
+    }
+    
+    .work-panel {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    } */
+    .education {
+        max-width: 100%;
+		display: flex;
+        justify-content: center;
+		flex-direction: column;
+    }
+    .education-panel {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
     /* .single-blog-img-container {
         width: 100%;
     }
