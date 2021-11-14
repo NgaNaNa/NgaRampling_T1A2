@@ -213,6 +213,9 @@ h4.copy-right {
   .blog-blurb {
     flex: 1;
     padding: 1em;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    font-weight: 300;
   }
 
 
@@ -248,6 +251,9 @@ img.single-blog-img {
 .single-blog-blurb {
     flex: 1;
     padding: 20px 20px 20px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5em;
+    font-weight: 300;
 }
 
 .single-blog-container-fixed {
@@ -385,7 +391,7 @@ p.my-biography-child {
 /* Responsive to tablet  */
 /* ********************* */
 
-@media screen and (max-width: 962px) {
+@media screen and (max-width: 601px) {
 	.navbar {
 		padding: 0;
 		flex-direction: column;
@@ -402,10 +408,16 @@ p.my-biography-child {
         padding: 10px 10px 10px;
         text-align: center;
     }
+    .work {
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+    }
     /* .single-blog-img-container {
         width: 100%;
     }
     img.single-blog-img {
         max-width: 90%;
     } */
+
 }
