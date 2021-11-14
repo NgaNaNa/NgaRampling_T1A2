@@ -249,6 +249,28 @@ h4.single-blog-text-center {
     display: flex;
     justify-content: center;
 }
+
+/******************************/
+/* Styling for Contact Me page */
+/******************************/
+
+.form-box {
+    display: flex;
+    justify-content: center;
+}
+
+fieldset {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    min-width: 800px;
+}
+input.submit-button {
+    margin: 1em;
+}
+
+
+
 /* ********************* */
 /* Responsive to mobile  */
 /* ********************* */
