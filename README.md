@@ -19,17 +19,12 @@ The self-built website will allow potential employer to get a field of who I am 
 
 ### Functionality / features
 
-This website has been implemented with responsive design in mind. Making it responsive to three major devices: Mobile, Tablet and desktop.   
-
-The mark-up language is HTML and CSS for styling.   
-
-It has a navigation bar, allowing a user friendly experience.   
-
-The images and other resource contents have had SRI encryption so that the user can be confident that any downloaded data will not have malicious data injected in there by a third party.   
-
-It is public and available to anyone who wants to view it through the internet, as it has been deployed via Netlify.   
-
-Each update made to this project should be pushed to my GitHub repository account. In doing so, modifying or updating this website can be done anywhere, and anytime, provided I have a desktop device with internet service available.   
+This website has been implemented with responsive design in mind. Making it responsive to three major devices: Mobile, Tablet and desktop.<br>
+The mark-up language is HTML and CSS for styling.<br>
+It has a navigation bar, allowing a user friendly experience.<br>
+The images and other resource contents have had SRI encryption so that the user can be confident that any downloaded data will not have malicious data injected in there by a third party.<br>
+It is public and available to anyone who wants to view it through the internet, as it has been deployed via Netlify.<br>
+Each update made to this project should be pushed to my GitHub repository account. In doing so, modifying or updating this website can be done anywhere, and anytime, provided I have a desktop device with internet service available.<br>
 
 ### Sitemap
 
