@@ -202,6 +202,7 @@ h4.copy-right {
   }
   .blog-blurb {
     flex: 1;
+    padding: 1em;
   }
 
 
@@ -360,6 +361,7 @@ p.my-biography-child {
     .single-blog-blurb {
         flex: 1;
         padding: 10px 10px 10px;
+        font-size: 1.2em
     }
     h4.blog-weights-h4-title {
         padding-left: 10px;
@@ -382,5 +384,18 @@ p.my-biography-child {
         display: flex;
         justify-content: center;
     }
-
+    .single-blog-container-fixed {
+        padding: 10px 10px 10px;
+    }
+    .page-title {
+        flex: 1;
+        padding: 10px 10px 10px;
+        text-align: center;
+    }
+    /* .single-blog-img-container {
+        width: 100%;
+    }
+    img.single-blog-img {
+        max-width: 90%;
+    } */
 }

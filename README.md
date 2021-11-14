@@ -31,6 +31,9 @@ Each update made to this project should be pushed to my GitHub repository accoun
 ![Port Folio Sitemap](/img/sitemap-portfolio.jpg)
 
 ### Screenshots
+
+
+
 ### Target audience
 ### Tech stack
 (e.g. html, css, deployment platform, etc)
