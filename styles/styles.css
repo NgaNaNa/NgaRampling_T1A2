@@ -19,8 +19,8 @@
     align-items: center;
 }
 h1 {
-    font-family: 'Sassy Frass', cursive;
-    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    font-size: 56px;
 }
 .author {
     display: flex;
