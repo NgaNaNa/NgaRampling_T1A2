@@ -22,10 +22,10 @@ h1 {
     font-family: 'Sassy Frass', cursive;
     font-size: 40px;
 }
-/* .author {
+.author {
     display: flex;
     justify-content: center;
-} */
+}
 h2 {
     font-family: 'JetBrains Mono';
     font-size: 1.6em;
