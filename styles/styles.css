@@ -13,27 +13,41 @@
 }
 .author {
     padding-top: 10px;
-    height: 50px;
+    height: 60px;
     background-color: powderblue;
     display: flex;
     align-items: center;
 }
+.nav-links a {
+    /*font-family: 'JetBrains Mono', sans-serif;*/
+    font-family: "Merriweather", serif;
+    color: #505050;
+    font-weight: 400;
+}
+
+p {
+    font-family: "Merriweather", serif;
+}
 h1 {
-    font-family: 'Sassy Frass', cursive;
-    font-size: 40px;
+    font-family: 'Playfair Display', serif;
+    font-size: 58px;
 }
 .author {
     display: flex;
     justify-content: center;
 }
 h2 {
-    font-family: 'JetBrains Mono';
+    /*font-family: 'JetBrains Mono';*/
+    /*font-family: 'Playfair Display', serif;*/
+    font-family: "Merriweather", serif;
     font-size: 1.6em;
 }
 h3 {
-    font-family: 'JetBrains Mono';
+    /*font-family: 'JetBrains Mono';*/
+    font-family: "Merriweather", serif;
     font-size: 1.4em;
 }
+
 .page-title {
     display: flex;
     justify-content: center;
@@ -70,6 +84,7 @@ a:hover {
     background-color: powderblue;
 }
 a {
+    color: inherit;
     text-decoration: none;
 }
 .left-panel-profile {
@@ -105,32 +120,47 @@ a {
 footer {
     height: 50px;
     background-color: powderblue;
-    display: flex;
+    /*display: flex;*/
+    /*justify-content: center;*/
 }
 .footer-wrap {
     display: flex;
     justify-content: center;
     background-color: powderblue;
     align-items: center;
+    height: 1em;
 }
 .footer-links a {
     margin-left: 5px;
     margin-right: 10px;
     text-decoration: none;
+    font-family: "Merriweather", serif;
+    color: #505050;
 }
 .footer-links {
-    margin-left: 5px;
-    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    /*margin-left: 5px;
+    margin-right: 10px;*/
+    margin-top: 0.4em;
 }
 
 .copy-right {
     display: flex;
     justify-content: center;
     font-size: 0.7em;
+    color: #505050;
+    margin-top: 0.5em;
+
 }
 h4.copy-right {
     font-size: 0.5em;
 }
+
+h4 {
+    font-family: "Merriweather", serif;
+}
+
 
 /******************************/
 /* Styling for work.html page */
@@ -259,7 +289,7 @@ img.single-blog-img {
     flex: 1;
     padding: 20px 20px 20px;
     font-family: 'Roboto', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     font-weight: 300;
 }
 
