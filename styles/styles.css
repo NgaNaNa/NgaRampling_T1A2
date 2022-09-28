@@ -284,6 +284,7 @@ img.single-blog-img {
     align-items: center;
     flex-direction: column;
     padding: 20px 20px 20px;
+
 }
 .single-blog-blurb {
     flex: 1;
@@ -331,8 +332,10 @@ input.submit-button {
     text-align: center;
 } */
 p.my-biography-child {
-    padding: 10px 300px 20px;
+    /*padding: 10px 1em 20px;*/
     text-align: left;
+    font-family: 'Roboto', sans-serif;
+    max-width: 800px;
     /* width: 50px;
     height: 50px;
     background-color: red; */
@@ -424,6 +427,16 @@ p.my-biography-child {
     }
     .form-box {
         width: 80vw;
+    }
+    p.my-biography-child {
+        /*padding: 10px 30px 20px;*/
+        text-align: left;
+        font-family: 'Roboto', sans-serif;
+        /* width: 50px;
+        height: 50px;
+        background-color: red; */
+        /* Center horizontally*/
+        /* margin: 0 auto; */
     }
 }
 
